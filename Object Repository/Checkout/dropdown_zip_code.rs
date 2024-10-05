@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_zip_code</name>
+   <tag></tag>
+   <elementGuidId>3bc2cb0a-327d-4e70-92a6-ba3649fd8a37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>html>body>section>div>div>div:nth-of-type(2)>div>form>div:nth-of-type(4)>div>div>div:nth-of-type(2)>div:nth-of-type(2)>div:nth-of-type(6)>div>div>div>div>select</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>ship_zip</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

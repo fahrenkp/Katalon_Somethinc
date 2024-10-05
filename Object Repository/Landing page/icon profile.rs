@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon profile</name>
+   <tag></tag>
+   <elementGuidId>56168dfc-e531-4480-ae25-f86c74f50686</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.nav-item.nav-menu-account > a > button.btn.btn-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f0f89349-4074-456e-9a43-30c10316505c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>908a9d07-96b1-4d97-b613-b396098922e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-icon</value>
+      <webElementGuid>625b88a8-ce29-4878-a60f-871c6f3c9ee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;filter&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;header-main&quot;]/div[@class=&quot;header-main-top&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-xxl-12&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-3 col-lg-7 col-xl-5 col-xxl-5 justify-content-end&quot;]/ul[@class=&quot;nav nav-menu align-items-center justify-content-end header-icon nav-lang-top&quot;]/li[@class=&quot;nav-item nav-menu-account&quot;]/a[1]/button[@class=&quot;btn btn-icon&quot;]</value>
+      <webElementGuid>aa01f3b9-08d8-42e2-9a47-a0d199a2f632</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>da9258f0-ba49-4cda-b15c-a2ba047849a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/button</value>
+      <webElementGuid>4c348534-cdce-48a0-a4ac-91aa9b3e96e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>8940ce8e-a12b-4417-bdf8-90fb85ffa234</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

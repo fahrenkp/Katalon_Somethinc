@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Subscribe to our WhatsApp and get Exclusive Launch Alert  Special Offer</name>
+   <tag></tag>
+   <elementGuidId>b3109f72-9208-4839-b4f9-c397d2214cc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#text-164018999387310</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='text-164018999387310']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5157f437-a8ff-4bff-bdc4-0cae5a52cb24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>text-164018999387310</value>
+      <webElementGuid>01fd0b08-6a57-48ff-a962-51b24fcf8182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ins-element-content editable-text no-resizable ins-sample-element-children</value>
+      <webElementGuid>7baa5120-a703-4f4d-b989-37e34be548c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-apply-to-all</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c0e81b69-e8d7-408f-86c5-e8336cfa263e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-element-name</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>dd6d916d-11f4-40d4-b0b0-d25ac6fcfa25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-removable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>370a484b-1e8e-4f48-aa48-f424786915f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ondrop</name>
+      <type>Main</type>
+      <value>return false;</value>
+      <webElementGuid>37771291-e446-4462-b2b4-81f8aad21b3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ondragstart</name>
+      <type>Main</type>
+      <value>return false;</value>
+      <webElementGuid>4c64cc3a-a366-426f-8fb3-39b060265431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>element-spacing-value</name>
+      <type>Main</type>
+      <value>in-pairs</value>
+      <webElementGuid>4bd82339-9248-47e2-ade7-2334830c43e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-spacing-mode</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0991987d-14c9-4778-8717-373485086614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-background-color-changed</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d1042571-7a35-47e2-a3e7-e56df88d1cf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>is-open-border-settings</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2f59355c-2def-404f-b7d8-8f69d3fac8c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>select-border-sides</name>
+      <type>Main</type>
+      <value>border</value>
+      <webElementGuid>95e96a41-71e5-4496-be04-97cfe263832e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    
+                                        Subscribe to our WhatsApp and get Exclusive Launch Alert &amp; Special Offer!
+                                    
+                                </value>
+      <webElementGuid>60a45f2d-1e99-491a-a593-0db209365fe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;text-164018999387310&quot;)</value>
+      <webElementGuid>cce53aa8-19cb-4b81-960f-9e0dbbd31dbb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='text-164018999387310']</value>
+      <webElementGuid>6f4cc883-2535-4015-a378-1a27d6ccab73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrap-text-164018999387310']/div</value>
+      <webElementGuid>f761ff12-30f3-4cb7-9dc2-ac8f37ea122d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BE THE FIRST TO GET INFORMED!'])[1]/following::div[3]</value>
+      <webElementGuid>89ba1fe8-f340-4dbc-b2e4-7b431f2ef8c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try-On'])[1]/following::div[27]</value>
+      <webElementGuid>885f14fe-d82b-4d38-a211-6a0b7e6de6c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::div[2]</value>
+      <webElementGuid>1637cd86-809a-4575-bd75-a8087c5d16a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div[3]/div/div[2]/div/div</value>
+      <webElementGuid>a6a3eb35-8302-436c-bda5-5ed3f20c3ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'text-164018999387310' and (text() = '
+                                    
+                                        Subscribe to our WhatsApp and get Exclusive Launch Alert &amp; Special Offer!
+                                    
+                                ' or . = '
+                                    
+                                        Subscribe to our WhatsApp and get Exclusive Launch Alert &amp; Special Offer!
+                                    
+                                ')]</value>
+      <webElementGuid>afdce769-6f97-4fda-a5dd-2ff2c3b5152b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
