@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Order Product From Shopping Cart</description>
    <name>01.PC_order_product_sopping_cart</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>3ec8c2de-c470-47f9-a42f-7e68a54723f4</testCaseGuid>
 </TestCaseEntity>

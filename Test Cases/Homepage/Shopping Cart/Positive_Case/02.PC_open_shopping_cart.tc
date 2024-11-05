@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Test Open Shopping Cart</description>
    <name>02.PC_open_shopping_cart</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>7dec123a-458c-4531-a08d-04929c414738</testCaseGuid>
 </TestCaseEntity>

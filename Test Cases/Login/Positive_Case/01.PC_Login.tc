@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Positive Case Login</description>
    <name>01.PC_Login</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>ee27e5e0-5ed3-43f7-9b49-d923eba00d6b</testCaseGuid>
 </TestCaseEntity>

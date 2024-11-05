@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Test Profile Page</description>
    <name>01.PC_Open_Profile_Page</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>bbcb092b-41bf-4c75-92ce-6552da917bc9</testCaseGuid>
 </TestCaseEntity>

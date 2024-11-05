@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>Test Detail Product From Search</description>
    <name>01.PC_detail_product_page_from_search</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>718a9866-6966-4c2d-8e8b-b30ddade12e3</testCaseGuid>
 </TestCaseEntity>

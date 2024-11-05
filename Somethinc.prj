@@ -4,8 +4,12 @@
    <name>Somethinc</name>
    <tag></tag>
    <UUID>afc4039f-56a7-4f21-87b6-747135ae93e3</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.7.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\denma\Katalon Studio\Somethinc\Somethinc.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
